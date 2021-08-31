@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ArcaDeNoe","l":"Card"},{"p":"ArcaDeNoe","l":"GameControl"},{"p":"ArcaDeNoe","l":"GameGUI"},{"p":"ArcaDeNoe","l":"main"}];updateSearchResults();
